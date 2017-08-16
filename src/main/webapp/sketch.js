@@ -1,10 +1,12 @@
 var len = 120;
 var angle = 0;
-var x = 500;
-var y = 600;
+var x;
+var y;
 
 function setup() {
     cnv = createCanvas(2 * windowWidth / 3, windowHeight);
+    x = width/2;
+    y = height/2;
     //frameRate(1);
     stroke(0);
 
