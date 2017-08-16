@@ -6,7 +6,7 @@ var y;
 function setup() {
     cnv = createCanvas(2 * windowWidth / 3, windowHeight);
     x = width/2;
-    y = height/2;
+    y = height - 20;
     //frameRate(1);
     stroke(0);
 
