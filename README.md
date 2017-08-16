@@ -1,6 +1,6 @@
 #Fractal Trees
 
-We implement fractal trees using **p5.js **and **p5.dom.js **libraries.
+We implement fractal trees using **p5.js** and **p5.dom.js** libraries.
 
 The basic tree has the code: 
  
